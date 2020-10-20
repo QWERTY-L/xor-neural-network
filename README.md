@@ -1,6 +1,6 @@
 # xor-neural-network
 
-This is a simple 2-2-1 neural network to solve the XOR problem.
+This is a simple 2-2-1 neural network to solve the XOR problem. You can custumize the activations, number of neurons in the hidden layer etc. This program will use multiple CPU cores to speed up learning.
 
 ## Commands
 
