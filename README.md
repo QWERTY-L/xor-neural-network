@@ -10,7 +10,7 @@ btrain [epochs] -> trains for given amount of epochs. Takes 1 integer.
 
 end -> terminates the program. Takes no inputs.
 
-print [variable] -> prints givin variable. Takes 1 string (dont use quotes).
+print [variable] -> prints given variable. Takes 1 string (dont use quotes).
 
 Variables
 - x
